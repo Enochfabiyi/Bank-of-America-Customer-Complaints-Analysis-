@@ -98,7 +98,7 @@ Regularly Update Customers on Progress — For in-progress complaints, keep cust
 
 ## Link to Dashboard
 
-Explore the full interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzQ4MjVjNjQtOGRjZS00ZTdiLTg2YmQtMGY5YWYxNDIzNzQzIiwidCI6ImQxMDA5NDQwLWY3YTYtNDM5MS04NjUwLWM1YjkxZTk5YTIzYiJ9)
+Explore the full interactive dashboard [here]([https://app.powerbi.com/view?r=eyJrIjoiNzQ4MjVjNjQtOGRjZS00ZTdiLTg2YmQtMGY5YWYxNDIzNzQzIiwidCI6ImQxMDA5NDQwLWY3YTYtNDM5MS04NjUwLWM1YjkxZTk5YTIzYiJ9)
 
 ## Conclusion
 
