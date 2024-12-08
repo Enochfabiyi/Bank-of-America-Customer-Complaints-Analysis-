@@ -62,7 +62,49 @@ The tool used for this analysis is Microsoft Power BI. It was used for data clea
 
 ## Dashboard Overview 
 
+![](https://github.com/Enochfabiyi/Bank-of-America-Customer-Complaints-Analysis-/blob/main/1_4dvuVZOSm4qA218csmvQng.webp)
 
+## Insights
+
+The analysis began by examining key performance indicators (KPIs) to provide a snapshot of the overall complaints. The total number of complaints was 62,516, with 1,494 complaints marked as “in progress.” The average acknowledgement time for complaints was 1.22 days, and 94% of complaints received a timely response.
+
+Next, the data was analyzed by product categories. “Checking and Savings Accounts” had the highest number of complaints (24,814), followed by “Credit/Prepaid Cards” with 16,197 complaints. Other notable categories included “Credit Reporting/Repair” (7,710), “Mortgage” (6,601), and “Money Transfer/Service” (3,453).
+
+The trend of complaints over time revealed that July had the highest number of complaints, followed by June, with February recording the lowest number. This seasonal variation suggests potential changes in customer experience or reporting periods.
+
+Common issues faced by consumers were also analyzed. “Managing an Account” emerged as the most frequent issue, with 15,100 complaints, followed by “Report Inaccuracy” (4,900), “Statement Discrepancy” (4,400), “Closing Account” (4,000), and “Payment Process Issues” (2,800). These top five issues were identified for deeper focus.
+
+Finally, a detailed table was created to highlight complaints that were still in progress, allowing for real-time tracking and response. The in-progress complaints were observed to be exclusively from 2023, providing an interesting insight into the time frame for unresolved complaints.
+
+These insights collectively give a clear overview of the complaint patterns and responses, allowing for targeted actions and continuous improvement in customer service and complaint resolution processes.
+
+## Recommendations
+
+Improve Acknowledgement Time — The average acknowledgement time is 1.22 days, which could be reduced further. Companies should aim for faster responses to enhance customer satisfaction. Consider setting a target for an acknowledgement time of under 1 day, possibly through automation or prioritization strategies.
+
+Focus on High-Complaint Products — Checking and Savings Accounts and Credit/Prepaid Cards have the highest number of complaints. It might be beneficial to analyze these products in more detail to identify recurring issues. Offering training or improving support around these products could reduce complaints significantly.
+
+Address Common Issues Proactively — Managing an Account, Report Inaccuracy, and Statement Discrepancy are the top recurring issues. Proactively addressing these through clearer communication or FAQs on the website could lower the volume of complaints. Additionally, consider creating a more robust customer service process to handle these issues faster.
+
+Enhance Timely Response Rates — With 94% of complaints receiving a timely response, there’s room for improvement. Striving for a 100% timely response rate can improve customer trust and satisfaction. This could be achieved by optimizing workflows, leveraging technology for faster processing, or increasing staffing during peak times.
+
+Track and Resolve In-Progress Complaints Efficiently — The 1,494 complaints still in progress should be closely monitored. Regularly check in on the status of these complaints to ensure they are resolved promptly. Establishing a dedicated team to manage in-progress complaints and ensure no cases are left unresolved for too long could improve response times and outcomes.
+
+Address 2023 In-Progress Complaints — The fact that 2023 is the only year with in-progress complaints suggests that there may be issues with handling complaints from that year. It would be worth investigating the backlog to ensure that no complaints from 2023 are left unresolved. Implementing a system to track unresolved complaints from past years could be helpful.
+
+Use Data to Anticipate Issues — By analyzing the trends and issues reported in previous months, you can anticipate potential spikes in certain types of complaints. For example, if you notice recurring complaints related to payment processing, steps can be taken in advance to address these concerns (e.g., system improvements, customer education, etc.).
+
+Regularly Update Customers on Progress — For in-progress complaints, keep customers updated regularly on the status of their cases. Clear communication regarding the expected resolution time will likely improve customer satisfaction, even if the issue isn’t immediately resolved.
+
+## Link to Dashboard
+
+Explore the full interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNzQ4MjVjNjQtOGRjZS00ZTdiLTg2YmQtMGY5YWYxNDIzNzQzIiwidCI6ImQxMDA5NDQwLWY3YTYtNDM5MS04NjUwLWM1YjkxZTk5YTIzYiJ9)
+
+## Conclusion
+
+In conclusion, the analysis of the 62,516 complaints reveals key insights into customer issues, with Checking and Savings Accounts and Credit/Prepaid Cards receiving the highest number of complaints. July saw the peak in complaints, while the most common issues were account management and report inaccuracies.
+
+The data also shows that most complaints receive timely responses, but some remain in progress, particularly in 2023. These insights highlight areas for improvement, including quicker responses and addressing recurring issues, helping to drive more effective customer service strategies.
 
 
 
